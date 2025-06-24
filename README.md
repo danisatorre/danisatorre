@@ -1,4 +1,5 @@
-<h1 align="center">¡Hola! 👋 Soy Dani Satorre!</h1>
+<!-- <h1 align="center">¡Hola! 👋 Soy Dani Satorre!</h1> -->
+<img src="images/banner.png" style="border-radius:30px; border: 3px solid white" alt="Banner" />
 
 ### 🙋‍♂️ Sobre mí
 - 👨‍💻 Actualmente estudiante de DAW aprendiendo nuevas tecnologías y frameworks.
@@ -47,9 +48,11 @@
     </tr>
 </table>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=danisatorre)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
-### 📫 ¿Cómo contactarme?
+### 📫 ¿Donde encontrarme y contactarme?
 
 <table>
   <thead>
